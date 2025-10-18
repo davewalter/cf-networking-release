@@ -6,4 +6,3 @@ applications:
     buildpacks: [go_buildpack]
     env:
       GOPACKAGENAME: raw-response
-      GOVERSION: go1.23
